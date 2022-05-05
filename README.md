@@ -1,2 +1,2 @@
-# arreglosejercicio7
+# primercommit
 Created with CodeSandbox
